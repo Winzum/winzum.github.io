@@ -8,8 +8,8 @@ Ik wil graag verder in de IT, het liefst in het gebied van softwareontwikkeling,
 
 In mijn vrije tijd sport ik graag (fietsen/hardlopen/zwemmen), lees ik of speel ik gitaar.
 
-* 💼    [LinkedIn](https://www.linkedin.com/in/winzum/)
-* 📧    [Mail](mailto:Lennart@winzum.nl) 
+* 💼    [**LinkedIn**](https://www.linkedin.com/in/winzum/)
+* 📧    [**Mail**](mailto:Lennart@winzum.nl) 
 
 
 
