@@ -1,0 +1,4 @@
+baseURL = 'https://winzum.github.io'
+languageCode = 'en-us'
+title = 'Lennart van Winzum'
+theme = "maverick"
