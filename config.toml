@@ -1,4 +1,4 @@
-baseURL = 'https://www.winzum.nl'
+baseURL = 'https://winzum.nl'
 languageCode = 'en-us'
 title = 'Lennart van Winzum'
 theme = "maverick"
