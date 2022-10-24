@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://winzum.github.io/</loc>
+    <loc>https://www.winzum.nl/</loc>
+    <lastmod>2022-10-24T14:55:54+02:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://winzum.github.io/categories/</loc>
+    <loc>https://www.winzum.nl/about/</loc>
+    <lastmod>2022-10-24T14:55:54+02:00</lastmod>
   </url><url>
-    <loc>https://winzum.github.io/tags/</loc>
+    <loc>https://www.winzum.nl/about/cv/</loc>
+    <lastmod>2022-10-24T14:55:54+02:00</lastmod>
+  </url><url>
+    <loc>https://www.winzum.nl/categories/</loc>
+  </url><url>
+    <loc>https://www.winzum.nl/tags/</loc>
   </url>
 </urlset>

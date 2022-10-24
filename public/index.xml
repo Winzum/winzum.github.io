@@ -3,14 +3,14 @@
     
     <title>Lennart van Winzum</title>
     <description></description>
-    <link>https://winzum.github.io</link>
+    <link>https://www.winzum.nl</link>
     
     <language>en</language>
     <copyright>Copyright 242424, Calvin Tran</copyright>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 14:55:54 +0200</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="https://winzum.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <atom:link href="https://www.winzum.nl/atom.xml" rel="self" type="application/atom+xml"/>
     
   </channel>
 </rss>

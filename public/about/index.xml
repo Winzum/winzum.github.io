@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Lennart van Winzum</title>
+    <link>https://www.winzum.nl/about/</link>
+    <description>Recent content in Abouts on Lennart van Winzum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2022 14:55:54 +0200</lastBuildDate><atom:link href="https://www.winzum.nl/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://www.winzum.nl/about/cv/</link>
+      <pubDate>Mon, 24 Oct 2022 14:55:54 +0200</pubDate>
+      
+      <guid>https://www.winzum.nl/about/cv/</guid>
+      <description>Curriculum Vitae Ervaring Nov 2021 - Heden, IT Trainee - Low-Code Specialty | Formorrow, Amersfoort Met behulp van Low-Code Softwareontwikkeling kan op een visuele manier snel en Neerlandistiekiteratief software geschreven worden. Als It Trainee bij Formorrow (voorheen Procam) leer ik werken met het platform Outsystems, om dit vervolgens toe te gaan passen bij een werkgever. Op dit moment zit ik nog midden in de zogeheten Deep Dive van acht weken en kijk ik uit naar mijn eerste échte klus.</description>
+    </item>
+    
+  </channel>
+</rss>

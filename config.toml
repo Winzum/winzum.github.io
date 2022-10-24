@@ -2,3 +2,15 @@ baseURL = 'https://www.winzum.nl'
 languageCode = 'en-us'
 title = 'Lennart van Winzum'
 theme = "maverick"
+
+[menu]
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv"
+    weight = "-110"
+#   [[menu.main]]
+#     identifier = "posts"
+#     name = "Post"
+#     url = "/posts/"
+#     weight = -200
