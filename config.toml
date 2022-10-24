@@ -1,7 +1,7 @@
 baseURL = 'https://winzum.nl'
 languageCode = 'en-us'
 title = 'Lennart van Winzum'
-theme = "maverick"
+theme = "maverick_winzum"
 
 [menu]
   [[menu.main]]

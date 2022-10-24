@@ -1,0 +1,3 @@
+[submodule "themes/maverick_winzum"]
+	path = themes/maverick_winzum
+	url = https://github.com/Winzum/maverick_winzum
