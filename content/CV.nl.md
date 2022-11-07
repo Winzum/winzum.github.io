@@ -4,7 +4,7 @@ date: 2022-10-24T14:55:54+02:00
 draft: false
 ---
 
-## Experience
+## Ervaring
 * **Nov 2021 - Heden, IT Trainee - [Low-Code Specialty](https://www.formorrow.nl/low-code/) | [Formorrow](https://www.formorrow.nl/), Amersfoort**  
 Met behulp van Low-Code Softwareontwikkeling kan op een visuele manier snel en Neerlandistiekiteratief software geschreven worden. Als It Trainee bij Formorrow (voorheen Procam) leer ik werken met het platform Outsystems, om dit vervolgens toe te gaan passen bij een werkgever. Op dit moment zit ik nog midden in de zogeheten Deep Dive van acht weken en kijk ik uit naar mijn eerste échte klus.
 
@@ -24,7 +24,7 @@ Met behulp van Low-Code Softwareontwikkeling kan op een visuele manier snel en N
   Studievereniging Awater is de studievereniging van de studie Nederlandse Taal & Cultuur. Als penningmeester ben ik in aanraking gekomen met zowel de financiële kant van de vereniging als de organisationele kant van de Universiteit.
 
 
-## Education
+## Educatie
 * **Sep 2018 - Mei 2021, [Neerlandistiek, Master](https://www.uu.nl/masters/neerlandistiek/)**  
   Bij de master Neerlandistiek worden taalkunde, communicatie en letterkunde gecombineerd met praktische vaardigheden als het vertalen van onderzoek naar beleidsstukken en het overbrengen van kennis in verschillende rollen en vormen. Mijn eindscriptie ging over het analyseren van sensationeel taalgebruik in krantenkoppen met behulp van digitale tools.
 

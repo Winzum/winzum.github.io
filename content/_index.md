@@ -1,12 +1,12 @@
-## Aangenaam!
+## Pleased to meet you!
 
-![My beautiful face](images/pp2.jpg)
+{{< profilepic >}}
 
-Ik ben Lennart van Winzum, 28 jaar, Neerlandicus en Tech-enthousiast. Ik heb het altijd al leuk gevonden om kennis op te doen die buiten mijn domein valt. Dit heeft ertoe geleid dat ik mij inmiddels breed ontwikkeld heb met een interdisciplinair curriculum. In het bijzonder interesseer ik mij in de overlap tussen communicatie en technologie en het extraheren van data uit originele bronnen op nieuwe manieren. Zo schreef ik mijn eindscriptie over het analyseren van sensationeel taalgebruik in krantenkoppen met behulp van digitale tools.
+My name is Lennart van Winzum, {{< currentage >}} years old, Linguist and Tech-enthousiast. I've always liked trying different things to acquire knowledge that was placed outside my comfort zone, which led to my broad and interdisciplinary curriculum. I'm particulary interested in the overlap between communication and technology.
 
-Ik wil graag verder in de IT, het liefst in het gebied van softwareontwikkeling, data-analyse en gebruikersvriendelijkheid.
+I'm learning more about software development, data analysis and user experience.
 
-In mijn vrije tijd sport ik graag (fietsen/hardlopen/zwemmen), lees ik of speel ik gitaar.
+In my free time I like to do different sports (cycling/running/swimming), I will read a book or play the guitar.
 
 * 💼    [**LinkedIn**](https://www.linkedin.com/in/winzum/)
 * 📧    [**Mail**](mailto:Lennart@winzum.nl) 
