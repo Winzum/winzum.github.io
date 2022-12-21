@@ -6,7 +6,7 @@ draft: false
 
 ## Ervaring
 * **Nov 2021 - Heden, IT Trainee - [Low-Code Specialty](https://www.formorrow.nl/low-code/) | [Formorrow](https://www.formorrow.nl/), Amersfoort**  
-Met behulp van Low-Code Softwareontwikkeling kan op een visuele manier snel en Neerlandistiekiteratief software geschreven worden. Als It Trainee bij Formorrow (voorheen Procam) leer ik werken met het platform Outsystems, om dit vervolgens toe te gaan passen bij een werkgever. Op dit moment zit ik nog midden in de zogeheten Deep Dive van acht weken en kijk ik uit naar mijn eerste échte klus.
+Met behulp van Low-Code Softwareontwikkeling kan op een visuele manier snel en iteratief software geschreven worden. Als It Trainee bij Formorrow (voorheen Procam) leer ik werken met het platform Outsystems, om dit vervolgens toe te gaan passen bij een werkgever. Op dit moment zit ik nog midden in de zogeheten Deep Dive van acht weken en kijk ik uit naar mijn eerste échte klus.
 
 * **Feb 2021 - Nov 2021, IT Support | Universiteit Utrecht, Utrecht**  
   Op deze functie was ik het eerste aanspreekpunt voor medewerkers en studenten van de Universiteit Utrecht. Ik stond hen te woord via e-mail, Whatsapp en telefoon, vroeg hun probleem verder uit en probeerde dit voor hen op te lossen. Wanneer het niet gelijk opgelost kon worden door mij maakte ik een melding aan met een zo concreet mogelijke probleemomschrijving en escaleerde ik dat naar de desbetreffende afdeling van de Universiteit.
