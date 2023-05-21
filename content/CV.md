@@ -5,37 +5,39 @@ draft: false
 ---
 
 ## Experience
-* **Nov 2021 - Heden, IT Trainee - [Low-Code Specialty](https://www.formorrow.nl/low-code/) | [Formorrow](https://www.formorrow.nl/), Amersfoort**  
-Met behulp van Low-Code Softwareontwikkeling kan op een visuele manier snel en iteratief software geschreven worden. Als It Trainee bij Formorrow (voorheen Procam) leer ik werken met het platform Outsystems, om dit vervolgens toe te gaan passen bij een werkgever. Op dit moment zit ik nog midden in de zogeheten Deep Dive van acht weken en kijk ik uit naar mijn eerste échte klus.
+* **Mar 2022 - Present, OutSystems Developer | [Arval](https://www.arval.nl/), Houten**  
+  Responsible for developing features and fixing bug in the apps used by Arval's consumers, both in the browser and on mobile, which are active in 15 countries.
+  
+* **Nov 2021 - Present, IT Trainee - [Low-Code Specialty](https://www.formorrow.nl/low-code/) | [Formorrow](https://www.formorrow.nl/), Amersfoort**  
+  With Low-Code Software Development, software can be written quickly and in a visual way. As an It Trainee at Formorrow (formerly Procam) I am learning to work with the Outsystems platform, to then apply it at an employer.
 
-* **Feb 2021 - Nov 2021, IT Support | Universiteit Utrecht, Utrecht**  
-  Op deze functie was ik het eerste aanspreekpunt voor medewerkers en studenten van de Universiteit Utrecht. Ik stond hen te woord via e-mail, Whatsapp en telefoon, vroeg hun probleem verder uit en probeerde dit voor hen op te lossen. Wanneer het niet gelijk opgelost kon worden door mij maakte ik een melding aan met een zo concreet mogelijke probleemomschrijving en escaleerde ik dat naar de desbetreffende afdeling van de Universiteit.
+* **Feb 2021 - Nov 2021, IT Support | Utrecht University, Utrecht**  
+  At this position I was the first point of contact for employees and students of Utrecht University. I spoke to them via email, Whatsapp and phone, questioned their problem further and tried to solve it for them. When it could not be solved immediately by me, I made a report with as concrete a problem description as possible and escalated it to the relevant department of the University.
 
-* **Sep 2017 - Sep 2020, E-surveillant | Topselect, Utrecht**  
-  Universiteit Utrecht neemt steeds vaker examens digitaal af. Als lid van het support team zorgde ik ervoor dat deze examens correct verliepen. Ik was verantwoordelijk voor het klaarleggen van de tentamenzalen, het assisteren van de docenten en studenten tijdens de examens en had contact met de examencoördinatoren wanneer er zich een probleem voordeed dat niet lokaal opgelost kon worden.
+* **Sep 2017 - Sep 2020, E-surveiller | Topselect, Utrecht**  
+  Utrecht University is increasingly taking exams digitally. As a member of the support team, I ensured that these exams ran correctly. I was responsible for preparing the exam rooms, assisting teachers and students during the exams and was in contact with the exam coordinators when a problem occurred that could not be solved locally.
 
-* **Feb 2020 - Mei 2020, Stagiair | Ahold Delhaize, Zaandam**  
-  Online marketing en data-analyse. Ik heb het marketingteam geassisteerd in het maken van dashboards die de verkoopcijfers van producten toonden. Hiernaast werkte ik mee aan een marketing test om te zien hoe online advertenties bezoeken naar fysieke winkels positief konden beïnvloeden.
+* **Feb 2020 - May 2020, Intern | Ahold Delhaize, Zaandam**  
+  Online marketing and data analysis. I assisted the marketing team in creating dashboards that showed product sales figures. In addition, I worked on a marketing test to see how online ads could positively influence visits to physical stores.
 
-* **Mrt 2019 - Jul 2019, Stagiair | Meertens Instituut, Amsterdam**  
-  Onderzoek en Programmeren. Ik werkte mee aan een project waar gedigitaliseerde krantenartikelen uit de zeventiende eeuw computationeel geanalyseerd werden. Ik heb een programma geschreven in Python die de historische namen van steden kon herkennen en rekening kon houden met alle verschillende spellingswijzen.
+* **Mar 2019 - Jul 2019, Intern | Meertens Institute, Amsterdam**  
+  Research and Programming. I worked on a project where digitized newspaper articles from the seventeenth century were computationally analyzed. I wrote a program in Python that could recognize the historical names of cities and take into account all the different spellings.
 
-* **Jul 2013 - Jul 2014, Penningmeester | Studievereniging Awater, Utrecht**  
-  Studievereniging Awater is de studievereniging van de studie Nederlandse Taal & Cultuur. Als penningmeester ben ik in aanraking gekomen met zowel de financiële kant van de vereniging als de organisationele kant van de Universiteit.
-
+* **Jul 2013 - Jul 2014, Treasurer | Study Association Awater, Utrecht**  
+  Studievereniging Awater is the study association of the study Dutch Language & Culture. As treasurer I got in touch with the financial side of the association as well as the organizational side of the University.
 
 ## Education
-* **Sep 2018 - Mei 2021, [Neerlandistiek, Master](https://www.uu.nl/masters/neerlandistiek/)**  
-  Bij de master Neerlandistiek worden taalkunde, communicatie en letterkunde gecombineerd met praktische vaardigheden als het vertalen van onderzoek naar beleidsstukken en het overbrengen van kennis in verschillende rollen en vormen. Mijn eindscriptie ging over het analyseren van sensationeel taalgebruik in krantenkoppen met behulp van digitale tools.
+* **Sep 2018 - May 2021, [Dutch Studies, Master's](https://www.uu.nl/masters/neerlandistiek/)**  
+  The Master's in Dutch Studies combines linguistics, communication and literature with practical skills such as translating research into policy documents and communicating knowledge in different roles and forms. My final thesis was about analyzing sensational language in headlines using digital tools.
 
-* **Sep 2019 - Sep 2020, [New Media & Digital Culture, Master](https://www.uu.nl/masters/en/new-media-digital-culture)**  
-  Data/Software Traject. Dit programma combineerde de analyse van de functie en impact van nieuwe media en dataficatie met hands-on vaardigheden zoals programmeren en datavisualisatie.
+* **Sep 2019 - Sep 2020, [New Media & Digital Culture, Master's](https://www.uu.nl/masters/en/new-media-digital-culture)**  
+  Data/Software Track. This program combined analysis of the function and impact of new media and datafication with hands-on skills such as programming and data visualization.
 
 * **Feb 2019 - Jul 2019, [Utrecht Data School](https://dataschool.nl/en/)**  
-  In dit interdisciplinaire traject heb ik in de loop van een half jaar geleerd over dataverzameling, data-analyse en datavisualisatie. Dit mondde uit in een onderzoeksproject voor de KRO-NCRV over het gedrag van hun Instagramvolgers.
+  In this interdisciplinary track, I learned about data collection, data analysis and data visualization over the course of six months. This culminated in a research project for KRO-NCRV on the behavior of their Instagram followers.
 
-* **Sep 2016 - Sep 2017, [Informatica, Minor](https://www.uu.nl/bachelors/informatica)**  
-  Hier heb ik de beginselen van Informatica geleerd zoals programmeren, databases en datastructuren.
+* **Sep 2016 - Sep 2017, [Computer Science, Minor](https://www.uu.nl/bachelors/informatica)**  
+  Here I learned the principles of Computer Science such as programming, databases and data structures.
 
-* **Sep 2012 - Aug 2018, [Nederlandse Taal & Cultuur, Bachelor](https://www.uu.nl/bachelors/nederlandse-taal-en-cultuur)**  
-  Ik heb me tijdens mijn studie gericht op communicatie, taalkunde, taalgebruik en de evolutie van taal. Mijn scriptie ging over figuurlijk taalgebruik in bestaande en niet-bestaande spreekwoorden.
+* **Sep 2012 - Aug 2018, [Dutch Language & Culture, Bachelor's](https://www.uu.nl/bachelors/nederlandse-taal-en-cultuur)**  
+  During my studies, I focused on communication, linguistics, language use and the evolution of language. My thesis was about figurative language use in existing and non-existing proverbs.
