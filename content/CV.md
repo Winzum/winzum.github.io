@@ -24,7 +24,7 @@ draft: false
   Research and Programming. I worked on a project where digitized newspaper articles from the seventeenth century were computationally analyzed. I wrote a program in Python that could recognize the historical names of cities and take into account all the different spellings.
 
 * **Jul 2013 - Jul 2014, Treasurer | Study Association Awater, Utrecht**  
-  Studievereniging Awater is the study association of the study Dutch Language & Culture. As treasurer I got in touch with the financial side of the association as well as the organizational side of the University.
+  Study Association Awater is the study association of the study Dutch Language & Culture. As treasurer I got in touch with the financial side of the association as well as the organizational side of the University.
 
 ## Education
 * **Sep 2018 - May 2021, [Dutch Studies, Master's](https://www.uu.nl/masters/neerlandistiek/)**  
