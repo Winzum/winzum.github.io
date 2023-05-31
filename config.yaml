@@ -2,12 +2,7 @@ baseURL: https://winzum.nl
 title: Lennart van Winzum
 theme: maverick_winzum
 
-menu:
-  main:
-  - identifier: cv
-    name: CV
-    url: /cv
-    weight: -110
+
 #   [[menu.main]]
 #     identifier = "posts"
 #     name = "Post"
@@ -17,7 +12,19 @@ menu:
 languages:
   en:
     languageName: en
+    menu:
+      main:
+      - identifier: cv
+        name: CV
+        url: /cv
+        weight: -110
     weight: 1
   nl:
     languageName: nl
+    menu:
+      main:
+      - identifier: cv
+        name: CV
+        url: /nl/cv
+        weight: -110
     weight: 2
