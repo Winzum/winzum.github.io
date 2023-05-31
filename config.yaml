@@ -2,13 +2,6 @@ baseURL: https://winzum.nl
 title: Lennart van Winzum
 theme: maverick_winzum
 
-
-#   [[menu.main]]
-#     identifier = "posts"
-#     name = "Post"
-#     url = "/posts/"
-#     weight = -200
-
 languages:
   en:
     languageName: en
