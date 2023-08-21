@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Ervaring
-* **Maa 2022 - Heden, OutSystems Developer | [Arval](https://www.arval.nl/), Houten**  
+* **Mrt 2022 - Heden, OutSystems Developer | [Arval](https://www.arval.nl/), Houten**  
   Verantwoordelijk voor het ontwikkelen van features en het repareren van bugs in de klantgerichte apps, op web en mobiel, die in 15 landen gebruikt worden.
 
 * **Nov 2021 - Heden, IT Trainee - [Low-Code Specialty](https://www.formorrow.nl/low-code/) | [Formorrow](https://www.formorrow.nl/), Amersfoort**  
