@@ -9,8 +9,5 @@ Op dit moment werk ik met [OutSystems](https://www.outsystems.com/), wat een Low
 In mijn vrije tijd sport ik graag (fietsen/hardlopen/zwemmen), lees ik of speel ik gitaar.
 
 * 💼    [**LinkedIn**](https://www.linkedin.com/in/winzum/)
-* 📧    [**Mail**](mailto:Lennart@winzum.nl) 
-
-
-
-
+* 📧    [**Mail**](mailto:Lennart@winzum.nl)
+* 💻    [**GitHub**](https://github.com/Winzum)

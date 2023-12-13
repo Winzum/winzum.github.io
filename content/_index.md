@@ -9,8 +9,5 @@ I'm currently an [OutSystems](https://www.outsystems.com/) Developer, which is a
 In my free time I like to do different sports (cycling/running/swimming), I will read a book or play the guitar.
 
 * 💼    [**LinkedIn**](https://www.linkedin.com/in/winzum/)
-* 📧    [**Mail**](mailto:Lennart@winzum.nl) 
-
-
-
-
+* 📧    [**Mail**](mailto:Lennart@winzum.nl)
+* 💻    [**GitHub**](https://github.com/Winzum)
