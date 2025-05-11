@@ -5,10 +5,13 @@ draft: false
 ---
 
 ## Ervaring
-* **Mrt 2022 - Heden, OutSystems Developer | [Arval](https://www.arval.nl/), Houten**  
-  Verantwoordelijk voor het ontwikkelen van features en het repareren van bugs in de klantgerichte apps, op web en mobiel, die in 15 landen gebruikt worden.
+* **Feb 2024 - Heden, Software Engineer | [Performation](https://performation.com/), Zeist**  
+  Meewerken aan het ontsluiten van verschillende zorgregistratiesystemen op de data-gateway en het doorzetten van informatie van de data-gateway naar de verschillende eindproducten van Performation. Hierbij gebruik ik vooral Microsoft SQL Server.
 
-* **Nov 2021 - Heden, IT Trainee - [Low-Code Specialty](https://www.formorrow.nl/low-code/) | [Formorrow](https://www.formorrow.nl/), Amersfoort**  
+* **Mrt 2022 - Jan 2024, OutSystems Developer | [Arval](https://www.arval.nl/), Houten**  
+  Verantwoordelijk voor het ontwikkelen van features en het repareren van bugs in de klantgerichte apps, op web en mobiel, die in 15 landen gebruikt worden. Hierbij werd de front-end gemaakt in OutSystems en werd de data opgeroepen met Oracle PL/SQL.
+
+* **Nov 2021 - Jan 2024, IT Trainee - [Low-Code Specialty](https://www.formorrow.nl/low-code/) | [Formorrow](https://www.formorrow.nl/), Amersfoort**  
   Met behulp van Low-Code Softwareontwikkeling kan op een visuele manier snel en iteratief software geschreven worden. Als It Trainee bij Formorrow (voorheen Procam) leer ik werken met het platform Outsystems, om dit vervolgens toe te passen bij een werkgever. Hiernaast volg je gedurende twee jaar een selectie softskill cursussen.
 
 * **Feb 2021 - Nov 2021, IT Support | Universiteit Utrecht, Utrecht**  
